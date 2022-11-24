@@ -26,7 +26,7 @@
             }
             for (uint i = 0; i <= number; i++)
             {
-                if (i % 2 != 0 && i != number)
+                if (i % 2 != 0)
                 {
                     Console.Write($"{i}, ");
                     output += $"{i}, ";
