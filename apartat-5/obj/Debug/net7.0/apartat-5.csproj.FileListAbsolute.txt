@@ -1,0 +1,15 @@
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-5\apartat-5\bin\Debug\net7.0\apartat-5.exe
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-5\apartat-5\bin\Debug\net7.0\apartat-5.deps.json
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-5\apartat-5\bin\Debug\net7.0\apartat-5.runtimeconfig.json
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-5\apartat-5\bin\Debug\net7.0\apartat-5.dll
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-5\apartat-5\bin\Debug\net7.0\apartat-5.pdb
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-5\apartat-5\obj\Debug\net7.0\apartat-5.csproj.AssemblyReference.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-5\apartat-5\obj\Debug\net7.0\apartat-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-5\apartat-5\obj\Debug\net7.0\apartat-5.AssemblyInfoInputs.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-5\apartat-5\obj\Debug\net7.0\apartat-5.AssemblyInfo.cs
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-5\apartat-5\obj\Debug\net7.0\apartat-5.csproj.CoreCompileInputs.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-5\apartat-5\obj\Debug\net7.0\apartat-5.dll
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-5\apartat-5\obj\Debug\net7.0\refint\apartat-5.dll
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-5\apartat-5\obj\Debug\net7.0\apartat-5.pdb
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-5\apartat-5\obj\Debug\net7.0\apartat-5.genruntimeconfig.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-5\apartat-5\obj\Debug\net7.0\ref\apartat-5.dll
